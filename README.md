@@ -2,7 +2,7 @@ Hello! 👋🏻
 
 I'm a software engineer based in the Philadelphia area.
 
-I like writing correct and maintainable software that feels good to use. 
+I like writing correct and maintainable software that feels good to use and enjoy languages like TypeScript, Scala, and Haskell.
 
 Here's some work I'm proud of: [Language Map of the United States](https://languagemap.us)
 
